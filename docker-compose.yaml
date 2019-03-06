@@ -1,0 +1,6 @@
+version: '3'
+services:
+  colors:
+    image: colors
+    build: .
+    container_name: colors

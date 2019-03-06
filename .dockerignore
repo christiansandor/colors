@@ -1,0 +1,9 @@
+node_modules
+dist
+yarn.lock
+*.log
+.env
+Dockerfile
+.dockerignore
+.gitignore
+.DS_Store
